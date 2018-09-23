@@ -24,7 +24,7 @@ const siteConfig = {
   title: 'Fantasy Ally', // Title for your website.
   tagline: 'Fantasy Football stats and rankings',
   url: 'https://vbudhram.github.io', // Your website URL
-  baseUrl: '/fantasyally-site', // Base URL for your project */
+  baseUrl: '/fantasyally-site/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
