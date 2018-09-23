@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://vbudhram.github.io/fantasyally-siteblog</id>
+    <id>https://vbudhram.github.io/fantasyally-site/blog</id>
     <title>Fantasy Ally Blog</title>
     <updated>2018-09-22T06:00:00Z</updated>
     <generator>Feed for Node.js</generator>
-    <link rel="alternate" href="https://vbudhram.github.io/fantasyally-siteblog"/>
+    <link rel="alternate" href="https://vbudhram.github.io/fantasyally-site/blog"/>
     <subtitle>The best place to stay up-to-date with the latest Fantasy Ally news and events.</subtitle>
-    <logo>https://vbudhram.github.io/fantasyally-siteimg/docusaurus.svg</logo>
+    <logo>https://vbudhram.github.io/fantasyally-site/img/docusaurus.svg</logo>
     <rights>Copyright © 2018 Fantasy Ally</rights>
     <entry>
         <title type="html"><![CDATA[Week 3 QB rankings]]></title>
-        <id>https://vbudhram.github.io/fantasyally-siteblog/2018/09/22/qb-week-3-rankings.html</id>
-        <link href="https://vbudhram.github.io/fantasyally-siteblog/2018/09/22/qb-week-3-rankings.html">
+        <id>https://vbudhram.github.io/fantasyally-site/blog/2018/09/22/qb-week-3-rankings.html</id>
+        <link href="https://vbudhram.github.io/fantasyally-site/blog/2018/09/22/qb-week-3-rankings.html">
         </link>
         <updated>2018-09-22T06:00:00Z</updated>
         <summary type="html"><![CDATA[<p>Hello y'all!</p> <p>This is the first of many posts for my fantasy football player rankings. I am experimenting with the formatting and algorithms used to generate the projections. The rankings below are based are the following</p> <ul> <li>1 point per 10 rush yards</li> <li>1 ...</li></ul>]]></summary>
