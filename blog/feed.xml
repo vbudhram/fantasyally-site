@@ -2,21 +2,21 @@
 <rss version="2.0">
     <channel>
         <title>Fantasy Ally Blog</title>
-        <link>https://your-docusaurus-test-site.com/blog</link>
+        <link>https://your-docusaurus-test-site.com/fantasyally-siteblog</link>
         <description>The best place to stay up-to-date with the latest Fantasy Ally news and events.</description>
         <lastBuildDate>Sat, 22 Sep 2018 06:00:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Fantasy Ally Blog</title>
-            <url>https://your-docusaurus-test-site.com/img/docusaurus.svg</url>
-            <link>https://your-docusaurus-test-site.com/blog</link>
+            <url>https://your-docusaurus-test-site.com/fantasyally-siteimg/docusaurus.svg</url>
+            <link>https://your-docusaurus-test-site.com/fantasyally-siteblog</link>
         </image>
         <copyright>Copyright © 2018 Fantasy Ally</copyright>
         <item>
             <title><![CDATA[Week 3 QB rankings]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/2018/09/22/qb-week-3-rankings.html</link>
-            <guid>https://your-docusaurus-test-site.com/blog/2018/09/22/qb-week-3-rankings.html</guid>
+            <link>https://your-docusaurus-test-site.com/fantasyally-siteblog/2018/09/22/qb-week-3-rankings.html</link>
+            <guid>https://your-docusaurus-test-site.com/fantasyally-siteblog/2018/09/22/qb-week-3-rankings.html</guid>
             <pubDate>Sat, 22 Sep 2018 06:00:00 GMT</pubDate>
             <description><![CDATA[<p>Hello y'all!</p> <p>This is the first of many posts for my fantasy football player rankings. I am experimenting with the formatting and algorithms used to generate the projections. The rankings below are based are the following</p> <ul> <li>1 point per 10 rush yards</li> <li>1 ...</li></ul>]]></description>
         </item>
