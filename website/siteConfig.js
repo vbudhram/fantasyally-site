@@ -21,20 +21,14 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Fantasy Ally', // Title for your website.
+  title: 'Fantasy Ally',
   tagline: 'Fantasy Football stats and rankings',
-  url: 'https://vbudhram.github.io', // Your website URL
-  baseUrl: '/fantasyally-site/', // Base URL for your project */
-  // For github.io type URLs, you would set the url and baseUrl like:
-  //   url: 'https://facebook.github.io',
-  //   baseUrl: '/test-site/',
+  url: 'https://fantasyally.com',
+  baseUrl: '/',
 
   // Used for publishing and more
   projectName: 'fantasyally-site',
   organizationName: 'vbudhram',
-  // For top-level user or org sites, the organization is still the same.
-  // e.g., for the https://JoelMarcey.github.io site, it would be set like...
-  //   organizationName: 'JoelMarcey'
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
@@ -55,20 +49,6 @@ const siteConfig = {
     secondaryColor: '#205C3B',
   },
 
-  /* Custom fonts for website */
-  /*
-  fonts: {
-    myFont: [
-      "Times New Roman",
-      "Serif"
-    ],
-    myOtherFont: [
-      "-apple-system",
-      "system-ui"
-    ]
-  },
-  */
-
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
   copyright: `Copyright © ${new Date().getFullYear()} Fantasy Ally`,
 
@@ -88,6 +68,8 @@ const siteConfig = {
   // Open Graph and Twitter card images.
   ogImage: 'img/docusaurus.png',
   twitterImage: 'img/docusaurus.png',
+
+	gaTrackingId: 'UA-126340495-1',
 
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...
