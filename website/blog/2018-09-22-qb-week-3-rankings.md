@@ -15,6 +15,8 @@ are based are the following
 * 6 points per rush/recive touchdown
 * -2 points per fumble/interception
 
+<!--truncate-->
+
 |Rank|Name|Team|PPR Expected Points|
 |---|---|---|---|
 |1|Tom Brady|NE|20.73|

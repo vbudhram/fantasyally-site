@@ -14,8 +14,8 @@ const users = [
     caption: 'Vijay Budhram',
     // You will need to prepend the image path with your baseUrl
     // if it is not '/', like: '/test-site/img/docusaurus.svg'.
-    image: '/img/docusaurus.svg',
-    infoLink: 'https://www.facebook.com',
+    image: 'https://s.gravatar.com/avatar/d4edc9d5579c9847f7f98e58a6a8ebc2?s=80',
+    infoLink: 'https://twitter.com/vjbudhram',
     pinned: true,
   },
 ];
@@ -25,6 +25,8 @@ const siteConfig = {
   tagline: 'Fantasy Football stats and rankings',
   url: 'https://fantasyally.com',
   baseUrl: '/',
+
+	cname: 'www.fantasyally.com',
 
   // Used for publishing and more
   projectName: 'fantasyally-site',
@@ -39,8 +41,8 @@ const siteConfig = {
   users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/docusaurus.svg',
-  footerIcon: 'img/docusaurus.svg',
+  headerIcon: 'img/shield.png',
+  footerIcon: 'img/shield.png',
   favicon: 'img/favicon.png',
 
   /* Colors for website */
@@ -66,8 +68,9 @@ const siteConfig = {
   cleanUrl: true,
 
   // Open Graph and Twitter card images.
-  ogImage: 'img/docusaurus.png',
-  twitterImage: 'img/docusaurus.png',
+  ogImage: 'img/shield.png',
+  twitter: true,
+  twitterImage: 'img/shield.png',
 
 	gaTrackingId: 'UA-126340495-1',
 

@@ -10,6 +10,8 @@ Here are week 4 current rankings. It seems like the majority of my
 week 3 rankings were way off from actuals totals. Hopefully
 we can bounce back this week!
 
+<!--truncate-->
+
 ## QB
 |Rank|Name|Team|Expected Points|PPR Expected Points|
 |---|---|---|---|---|

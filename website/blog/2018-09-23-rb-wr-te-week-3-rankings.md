@@ -16,6 +16,8 @@ Scoring summary
 * 6 points per rush/recive touchdown
 * -2 points per fumble/interception
 
+<!--truncate-->
+
 ## RB
 |Rank|Name|Team|PPR Expected Points|
 |---|---|---|---|
@@ -25,7 +27,7 @@ Scoring summary
 |4|Saquon Barkley|NYG|18.7|
 |5|Ezekiel Elliott|DAL|18.44|
 |6|Dalvin Cook|MIN|18.32|
-|7|David Johnson|ARI|18.18|
+|7|David Johnson|ARI|18.18|authorFBID
 |8|James Conner|PIT|17.43|
 |9|Tevin Coleman|ATL|16.81|
 |10|Kareem Hunt|KC|16|

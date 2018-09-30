@@ -1,7 +1,7 @@
 ---
+title: Week 3 Ranking Analysis
 author: Vijay Budhram
 authorURL: https://twitter.com/vjbudhram
-title: Week 3 Ranking Analysis
 ---
 
 Hello everyone!
@@ -10,6 +10,8 @@ I finally had some time to do some analysis and see how well my week 3 projectio
 have high expectations since this was the first week of trying it out, but was pleasantly surprised.
 
 Hopefully, with some more data and games played these projections can evolve and become better.
+
+<!--truncate-->
 
 ## QB
 |Rank|Name|Team|Projected PPR|Actual PPR|Difference| Percent %|
