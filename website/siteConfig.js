@@ -23,7 +23,7 @@ const users = [
 const siteConfig = {
   title: 'Fantasy Ally',
   tagline: 'Fantasy Football stats and rankings',
-  url: 'https://fantasyally.com',
+  url: 'https://www.fantasyally.com',
   baseUrl: '/',
 
 	cname: 'www.fantasyally.com',
@@ -71,7 +71,7 @@ const siteConfig = {
   ogImage: 'img/shield.png',
   twitter: true,
   twitterImage: 'img/shield.png',
-
+  twitterUsername: 'vjbudhram',
 	gaTrackingId: 'UA-126340495-1',
 
   // You may provide arbitrary config keys to be used as needed by your
