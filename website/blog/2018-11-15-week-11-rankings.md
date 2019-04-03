@@ -7,7 +7,7 @@ title: Week 11 Rankings
 
 Hello everyone!
 
-Here are the latest fantasy football week 11 rankings!
+Here are the latest fantasy football week 11 rankings!!
 
 
 <!--truncate-->
